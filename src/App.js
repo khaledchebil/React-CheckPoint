@@ -11,6 +11,7 @@ function App() {
 <> 
 {/* npm install --save bootstrap@3.4.1 */}
 {/* npm install --save react-bootstrap-validation */}
+{/* npm install --save mdbreact */}
 
 <Navbar bg="dark" variant="dark">
     <Navbar.Brand href="#home">React Check Point</Navbar.Brand>
